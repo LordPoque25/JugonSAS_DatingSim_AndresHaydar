@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\DatingSim_jugonSAS\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DatingSim_jugonSAS\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
